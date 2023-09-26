@@ -1,4 +1,7 @@
-package de.telran;
+
+//Task 1
+
+package de.telran.java_home_work;
 
 public class TaskJava {
     public static void main(String[] args) {
@@ -19,10 +22,7 @@ public class TaskJava {
      System.out.println("myDouble = 4.355453532");
      System.out.println("myLong = 12121");
 
-    }
-}
-
-/*
+     /*
 1. В методе main инициализировать все примитивные типы и не примитивные типы.
         2. Вывести их результат в консоль:
         char: G
@@ -33,3 +33,27 @@ public class TaskJava {
         double: 4.355453532
         long: 12121
 */
+
+   //Task 2
+
+     int nummer = 345;
+
+     int sum = nummer % 10;
+     int sum1 = nummer / 100;
+     int sum2 = nummer / 10%10;
+
+     System.out.print(+sum1);
+     System.out.print(","+sum2);
+     System.out.print(","+sum);
+
+       /* Дано трехзначное число. Вывести на экран все цифры этого числа
+        Пример: 345
+        Вывод в консоль: Число 345 -> 3, 4, 5*/
+
+
+    }
+}
+
+
+
+
