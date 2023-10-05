@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava2.java" afterDir="false" />
+    <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/qa_home_work/TaskQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/qa_home_work/TaskQA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TaskJava2">
+  <component name="RunManager" selected="Application.TaskJava3">
     <configuration name="TaskJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava" />
       <module name="HomeTask" />
@@ -80,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskQA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.qa_home_work.TaskQA" />
+    <configuration name="TaskJava3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava3" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.qa_home_work.*" />
+          <option name="PATTERN" value="de.telran.java_home_work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskJava3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava3_1" />
+      <module name="HomeTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.java_home_work.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,10 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskJava3" />
+        <item itemvalue="Application.TaskJava3_1" />
         <item itemvalue="Application.TaskJava2" />
         <item itemvalue="Application.TaskJava2 (1)" />
         <item itemvalue="Application.TaskJava" />
-        <item itemvalue="Application.TaskQA" />
       </list>
     </recent_temporary>
   </component>
@@ -143,11 +158,20 @@
       <option name="project" value="LOCAL" />
       <updated>1695759459008</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HomeWork 2">
+      <option name="closed" value="true" />
+      <created>1696189665401</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696189665401</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWork" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork" />
+    <MESSAGE value="HomeWork 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 2" />
   </component>
 </project>
