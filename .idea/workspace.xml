@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava4_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/qa_home_work/TaskQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/qa_home_work/TaskQA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -41,46 +45,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TaskJava3">
-    <configuration name="TaskJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava" />
-      <module name="HomeTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.java_home_work.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskJava2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava2" />
-      <module name="HomeTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.java_home_work.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskJava2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava2" />
-      <module name="HomeTask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.java_home_work.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TaskJava4_2">
     <configuration name="TaskJava3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava3" />
       <module name="HomeTask" />
@@ -107,13 +72,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskJava4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava4" />
+      <module name="HomeTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.java_home_work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskJava4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava4_1" />
+      <module name="HomeTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.java_home_work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskJava4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava4_2" />
+      <module name="HomeTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.java_home_work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskJava4_2" />
+        <item itemvalue="Application.TaskJava4_1" />
+        <item itemvalue="Application.TaskJava4" />
         <item itemvalue="Application.TaskJava3" />
         <item itemvalue="Application.TaskJava3_1" />
-        <item itemvalue="Application.TaskJava2" />
-        <item itemvalue="Application.TaskJava2 (1)" />
-        <item itemvalue="Application.TaskJava" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696189665401</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HomeWork 2">
+      <option name="closed" value="true" />
+      <created>1696545162328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696545162328</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
