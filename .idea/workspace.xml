@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork 4" />
+    <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava6_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +46,9 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TaskJava4_2">
-    <configuration name="TaskJava3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava3" />
+  <component name="RunManager" selected="Application.TaskJava6_2">
+    <configuration name="TaskJava5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava5" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskJava3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava3_1" />
+    <configuration name="TaskJava5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava5_1" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskJava4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava4" />
+    <configuration name="TaskJava6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava6" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskJava4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava4_1" />
+    <configuration name="TaskJava6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava6_1" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskJava4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava4_2" />
+    <configuration name="TaskJava6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.TaskJava6_2" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskJava4_2" />
-        <item itemvalue="Application.TaskJava4_1" />
-        <item itemvalue="Application.TaskJava4" />
-        <item itemvalue="Application.TaskJava3" />
-        <item itemvalue="Application.TaskJava3_1" />
+        <item itemvalue="Application.TaskJava6_2" />
+        <item itemvalue="Application.TaskJava6_1" />
+        <item itemvalue="Application.TaskJava6" />
+        <item itemvalue="Application.TaskJava5_1" />
+        <item itemvalue="Application.TaskJava5" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697059623963</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HomeWork 4">
+      <option name="closed" value="true" />
+      <created>1697059699263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697059699263</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,5 +203,15 @@
     <MESSAGE value="HomeWork 2" />
     <MESSAGE value="HomeWork 4" />
     <option name="LAST_COMMIT_MESSAGE" value="HomeWork 4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.MissingFormatArgumentException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
