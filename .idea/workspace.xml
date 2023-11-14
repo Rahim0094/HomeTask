@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork 6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/SimplePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/module1/lecture1/module1/lecture1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/module1/lecture1/module1/lecture1/SimplePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_pro_hw/General_TEch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
