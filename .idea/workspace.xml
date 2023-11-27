@@ -5,38 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork 6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/BelarusianHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/Hen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/HenFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/MoldovanHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/RussianHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/UkrainianHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/new_pizza/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/stock/Collector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/stock/JobStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/stock/Loader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/stock/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_20_11_23/stock/Storekeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_29_11_23/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_29_11_23/SimpleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_29_11_23/cofe/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_29_11_23/cofe/CoffeeMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/SimplePhone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava4_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava4_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava6_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava6_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava7_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/TaskJava8_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/module1/lecture1/module1/lecture1/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/module1/lecture1/module1/lecture1/SimplePerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/qa_home_work/TaskQA.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -75,13 +48,13 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JobStock">
-    <configuration name="Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.hw_20_11_23.Factory" />
+  <component name="RunManager" selected="Application.CoffeeMachine">
+    <configuration name="CoffeeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.hw_29_11_23.cofe.CoffeeMachine" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.java_home_work.hw_20_11_23.stock.*" />
+          <option name="PATTERN" value="de.telran.java_home_work.hw_29_11_23.cofe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HenFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.hw_20_11_23.HenFactory" />
+    <configuration name="Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.hw_20_11_23.Factory" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
@@ -128,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pizzeria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.hw_17_11_23.pizza.Pizzeria" />
+    <configuration name="SimpleEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.java_home_work.hw_29_11_23.SimpleEnum" />
       <module name="HomeTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telran.java_home_work.hw_17_11_23.pizza.*" />
+          <option name="PATTERN" value="de.telran.java_home_work.hw_29_11_23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoffeeMachine" />
+        <item itemvalue="Application.SimpleEnum" />
         <item itemvalue="Application.JobStock" />
         <item itemvalue="Application.Pizza" />
         <item itemvalue="Application.Factory" />
-        <item itemvalue="Application.HenFactory" />
-        <item itemvalue="Application.Pizzeria" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700618354272</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HomeWork 6">
+      <option name="closed" value="true" />
+      <created>1700964619711</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1700964619711</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
