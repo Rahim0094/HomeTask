@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork 6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_29_11_23/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_29_11_23/SimpleEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_29_11_23/cofe/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/java_home_work/hw_29_11_23/cofe/CoffeeMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3ec7d979-4294-4bcb-9b21-99206f6b9933" name="Changes" comment="HomeWork 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700964619711</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="HomeWork 6">
+      <option name="closed" value="true" />
+      <created>1701053886025</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701053886025</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
